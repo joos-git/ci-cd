@@ -38,7 +38,7 @@
 
 Сначала устанавливаем Java:
 ```
-sudo apt-get install default-jre
+sudo apt install openjdk-11-jdk
 ```
 Затем устанавливаем Jenkins из пакета для debian/ubuntu:
 ```
